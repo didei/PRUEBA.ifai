@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 $var="ARRIBA EL AMÉRICA --Pues ya que Sergio--";
 =======
 $var="ARRIBA EL AMÉRICA POR QUE ES EL MEJOR EQUIPO DE FUTBOL DEL MUNDO"; //RobersuiT
@@ -39,4 +40,6 @@ $var="ARRIBA EL AMÉRICA     HELLO WORLD(FAVIAN) ";
 >>>>>>> 5e3dc3de51c7d566bcafd4018bd3b08e46cbb54b
 
 
+=======
+>>>>>>> df933cf09d76feb04587314e6d58adf331abf1a8
 ?>
