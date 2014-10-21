@@ -1,7 +1,11 @@
 <?php
 
 
+<<<<<<< HEAD
 $var="ARRIBA EL AMÉRICA No (Diego)";
+=======
+$var="ARRIBA EL AMÉRICA     HELLO WORLD(FAVIAN) ";
+>>>>>>> origin/master
 
 $var="ARRIBA LAS CHIVAS";
 $abajo="al hoyo";
