@@ -1,6 +1,6 @@
 <?php
 <<<<<<< HEAD
-$ayon="chivas";
+$ayon="PUTO";
 =======
 
 <<<<<<< HEAD
