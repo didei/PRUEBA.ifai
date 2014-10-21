@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Sergio";
 =======
 $ayon="chivas";
@@ -17,4 +18,7 @@ $ayon="PUTO";
 FAVIAN
 
 >>>>>>> origin/master
+=======
+$RobersuiT="PUTO";
+>>>>>>> b70d5ea2945b68b5346b435102e16cff2b217aa9
 ?>
