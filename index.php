@@ -14,13 +14,4 @@ echo "Aqui estuvó ".$chingon;  //El chivista mas chingon
 
 echo "ESTA ES UNA NUEVA LINEA FAVIAN";
 
-<<<<<<< Updated upstream
-"kionda By Serge";
-=======
-<<<<<<< HEAD
-
-=======
-"kionda By Serge";
->>>>>>> FETCH_HEAD
->>>>>>> Stashed changes
 ?>
