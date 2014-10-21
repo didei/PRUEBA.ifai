@@ -2,8 +2,8 @@ Prueba.ifai
 ===========
 
 Esta es una pinche prueba
-todos son niñas 
+todos son niÃ±as 
 yo ya pude abrirlo
 
 FAVIAN arriba las CHIVAS
-editando
+Hola el sergio es gay
