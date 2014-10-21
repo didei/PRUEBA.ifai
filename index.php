@@ -1,6 +1,6 @@
 <?php
-<<<<<<< HEAD
 $RobersuiT="PUTO";
+<<<<<<< HEAD
 $ayon="chingon";
 =======
 
@@ -9,5 +9,7 @@ $ayon="chingon";
 =======
 FAVIAN
 
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 ?>
