@@ -7,24 +7,9 @@ $RobersuiT="Chingon";
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
-$CHIVAS="PUTO";
-
-=======
-<<<<<<< HEAD
->>>>>>> Stashed changes
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-"Sergio";
+$CHIVAS="Sergio";
 =======
 $ayon="chivas";
->>>>>>> 3dc3f6c1efa1f187a8ffb02cafb98789e3b0a5c4
-=======
-$ayon="PUTO";
->>>>>>> 15db34279b411d002679cc7c9262de4ace5d17af
-=======
-
-<<<<<<< HEAD
 	RobersuiT
 =======
 FAVIAN
@@ -32,9 +17,7 @@ FAVIAN
 >>>>>>> origin/master
 =======
 $RobersuiT="PUTO";
-<<<<<<< HEAD
-<<<<<<< HEAD
-$ayon="chingon";
+
 =======
 
 <<<<<<< HEAD
