@@ -16,6 +16,7 @@ echo "ESTA ES UNA NUEVA LINEA FAVIAN";
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "Funcionaaaaa";
 
 =======
@@ -32,4 +33,6 @@ echo "Funcionaaaaa";
 >>>>>>> FETCH_HEAD
 >>>>>>> Stashed changes
 >>>>>>> 27c5aea809f36359ffb7e7e10b7a3a26dbfec440
+=======
+>>>>>>> 453128382b207c219bd5249d80f8ea550a2c4f30
 ?>
