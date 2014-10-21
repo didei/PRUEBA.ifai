@@ -7,4 +7,4 @@ Esta es una pinche prueba
 todos son niñas 
 yo ya pude abrirlo
 
-FAVIAN arriba el AMERICA
+FAVIAN arriba las CHIVAS
