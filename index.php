@@ -3,6 +3,9 @@
 $ayon="chivas";
 =======
 
+<<<<<<< HEAD
+	RobersuiT
+=======
 FAVIAN
 
 >>>>>>> origin/master
