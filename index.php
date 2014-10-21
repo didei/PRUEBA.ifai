@@ -1,7 +1,7 @@
 <?php
 
 
-$var="ARRIBA EL AMÉRICA";
+$var="ARRIBA EL AMÉRICA POR QUE ES EL MEJOR EQUIPO DE FUTBOL DEL MUNDO"; //RobersuiT
 
 $var="ARRIBA LAS CHIVAS";
 $abajo="al hoyo";
