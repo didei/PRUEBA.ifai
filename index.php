@@ -1,5 +1,12 @@
 <?php
 <<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+$CHIVAS="PUTO";
+
+=======
+<<<<<<< HEAD
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -21,4 +28,8 @@ FAVIAN
 =======
 $RobersuiT="PUTO";
 >>>>>>> b70d5ea2945b68b5346b435102e16cff2b217aa9
+<<<<<<< Updated upstream
+=======
+>>>>>>> FETCH_HEAD
+>>>>>>> Stashed changes
 ?>
