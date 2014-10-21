@@ -3,7 +3,11 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 $var="ARRIBA EL AMÉRICA --Pues ya que Sergio--";
+=======
+$var="ARRIBA EL AMÉRICA POR QUE ES EL MEJOR EQUIPO DE FUTBOL DEL MUNDO"; //RobersuiT
+>>>>>>> 89409abf68458b3e0bafb217837a313e75880933
 =======
 $var="ARRIBA EL AMÉRICA     HELLO WORLD(FAVIAN) ";
 >>>>>>> origin/master
