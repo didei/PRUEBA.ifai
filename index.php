@@ -1,7 +1,7 @@
 <?php
 
 
-$var="ARRIBA EL AMÉRICA";
+$var="ARRIBA EL AMÉRICA No (Diego)";
 
 $var="ARRIBA LAS CHIVAS";
 $abajo="al hoyo";
