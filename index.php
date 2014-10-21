@@ -2,6 +2,7 @@
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 $var="ARRIBA EL AMÉRICA POR QUE ES EL MEJOR EQUIPO DE FUTBOL DEL MUNDO"; //RobersuiT
 =======
 $var="ARRIBA EL AMÉRICA     HELLO WORLD(FAVIAN) ";
@@ -18,25 +19,20 @@ echo "Aqui estuvó ".$chingon;  //El chivista mas chingon
 
 echo "ESTA ES UNA NUEVA LINEA FAVIAN";
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-echo "Funcionaaaaa";
-
 =======
-"kionda By Serge";
+>>>>>>> 90311aeed40587300c0276967281d7624547ec23
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+$var="ARRIBA EL MEJOR EQUIPO DEL MUNDO 'CHIVAS'"; //ayon
+=======
+$var="ARRIBA EL AMÉRICA No (Diego)";
+>>>>>>> 3cbdeac7462423ca3d6db53fca92416a8b72586a
+=======
+$var="ARRIBA EL AMÉRICA     HELLO WORLD(FAVIAN) ";
 >>>>>>> origin/master
 =======
-<<<<<<< Updated upstream
-"kionda By Serge";
-=======
-<<<<<<< HEAD
+>>>>>>> 5e3dc3de51c7d566bcafd4018bd3b08e46cbb54b
 
-=======
-"kionda By Serge";
->>>>>>> FETCH_HEAD
->>>>>>> Stashed changes
->>>>>>> 27c5aea809f36359ffb7e7e10b7a3a26dbfec440
-=======
->>>>>>> 453128382b207c219bd5249d80f8ea550a2c4f30
+
 ?>
