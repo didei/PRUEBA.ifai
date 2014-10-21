@@ -1,8 +1,11 @@
 <?php
 
-$var="ARRIBA EL AMÉRICA";
+$var="ARRIBA LAS CHIVAS";
 $abajo="al hoyo";
+$chingon = "Ayón";
 
 echo $var." y La chivas se vaaaaannnn al ".$abajo;
+
+echo "Aqui estuvó ".$chingon;  //El chivista mas chingon
 
 ?>
