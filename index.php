@@ -1,7 +1,7 @@
 <?php
 
 
-$var="ARRIBA EL AMÉRICA";
+$var="ARRIBA EL MEJOR EQUIPO DEL MUNDO 'CHIVAS'"; //ayon
 
 $var="ARRIBA LAS CHIVAS";
 $abajo="al hoyo";
