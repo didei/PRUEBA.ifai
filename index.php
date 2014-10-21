@@ -1,6 +1,6 @@
 <?php
 if($Ayon = "chivista")
-	echo $RobersuiT="Chingon";
+	echo $RobersuiT="puto";
 
 $ayon="chivas";
 
